@@ -1,0 +1,44 @@
+body{
+  background: gray;
+}
+.wrapper{
+  max-width: 50%;
+  margin: auto;
+}
+.quote-container{
+  margin: auto;
+  background: white;
+  margin-top: 30%;
+  background: white;
+
+
+}
+.quote{
+  padding: 3%;
+
+}
+.buttons{
+  margin: auto;
+  text-align: center;
+  padding-bottom: 15px;
+}
+button{
+  border-radius: 0;
+  border: 0;
+  padding: 8px;
+
+}
+.twitter-share-button{
+  margin: 2%;
+  padding-left: 80px;
+}
+@media (max-width: 600px) {
+  .wrapper{
+    max-width: 75%;
+  }
+}
+@media (max-width: 400px) {
+  .wrapper{
+    max-width: 90%;
+  }
+}
