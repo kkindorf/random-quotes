@@ -12,6 +12,7 @@ body{
   background: white;
 
 
+
 }
 .quote{
   padding: 3%;
@@ -39,6 +40,6 @@ button{
 }
 @media (max-width: 400px) {
   .wrapper{
-    max-width: 90%;
+    max-width: 95%;
   }
 }
