@@ -1,7 +1,7 @@
 # random-quotes
 Random Chuck Norris Joke Generator
 
-
+![Random Quote Generator](random.png)
 
 Yeah ok so I'm a fan of Chuck Norris jokes. So sue me! I couldn't resiste using the [icndb's](http://www.icndb.com/api/) api for this freecodecamp project.
 
